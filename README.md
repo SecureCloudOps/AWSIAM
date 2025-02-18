@@ -84,7 +84,7 @@ I attached the policy I created to this user group, which means all users in tha
 
 ## Logging in as an IAM User
 
-The first way is to share the sign-in URL username, and temporary password via email. The second way is to provide the details manually or through a secure communication channel like a company-approved password manager.
+The first way is to share the sign-in URL username, and temporary password, is via email. The second way is, to provide the details manually or through a secure communication channel like a company-approved password manager.
 
 Once I logged in as my IAM user, I noticed that I was already seeing Access denied on my dashboard panels. This is because my IAM user hasn't been granted the necessary permission to view these resources.
 
